@@ -1,6 +1,5 @@
-#### I am a skilled graphic designer, photographer, and web developer with over 22 years of experience. I have a strong portfolio of work that demonstrates my skills in all three areas. I am proficient in a variety of software programs, including Adobe Creative Cloud. I am also experienced in using WordPress and other content management systems. I am confident that I can provide you with the high-quality services you need to create a professional and visually appealing online presence.
-#### I am also a hard worker and I am always willing to go the extra mile to get the job done. I am also a team player and I am always willing to collaborate with others to achieve a common goal.
-#### If you are looking for a skilled and experienced graphic designer, photographer, and developer, I would be honored to discuss your project with you. 
+#### I'm a skilled graphic designer, photographer, and web developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
+
 
 # Phil Gear
 
@@ -205,4 +204,4 @@ Pacific Northwest Event Attendee and Group Owner | December 2014 – Present
 
 - Captured photographs of events and posted them on event pages.
 - Hosted a group on Adobe Photoshop and Lightroom.
- - Attended over 300+ events on art, science, and technology.
+- Attended over 300+ events on art, science, and technology.
