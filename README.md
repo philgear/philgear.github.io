@@ -1,13 +1,23 @@
-#### I'm a skilled graphic designer, photographer, and web developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
+#### I'm a skilled graphic designer, photographer, and developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
 
-
-# Phil Gear
-
-[LinkedIn](https://www.linkedin.com/in/philgear) | Portland, Oregon 97207 | 419-203-7557 | [philgear.biz](https://philgear.biz) | philgear@gmail.com
+[LinkedIn](https://www.linkedin.com/in/philgear) | Portland, Oregon 97207 | 419-203-7557 | [philgear.biz](https://philgear.biz) | contact@philgear.biz
 
 ## Skills Summary
 
-- Generative AI | WordPress | Adobe Creative Cloud | Microsoft Office Suite | Google Workspace | Pulse Embroidery | Autodesk Revit | Trimble | HTML5 | CSS3 | JavaScript | Python | XML | PHP | Windows Desktop and Server | OSX | Linux | Android | iOS | Virtual Machines | Google Cloud Platform | Amazon Web Services | Microsoft Azure | Server systems | Desktop systems | Laptop systems | IoT systems | Printers | Cameras | Plotters | Automation | Project Management
+**Technical Skills**
+
+* **Web Development:** HTML5, CSS3, JavaScript, Python, XML, PHP
+* **Cloud Platforms:** Google Cloud Platform, Amazon Web Services, Microsoft Azure
+* **Software:** Autodesk Revit, Trimble, Pulse Embroidery, Adobe Creative Cloud, Microsoft Office Suite, Google Workspace
+* **Operating Systems:** Windows Desktop and Server, OSX, Linux, Android, iOS
+* **Systems Support:** Servers, Desktops, Laptops, IoT, Printers, Cameras, Plotters
+
+**Soft Skills**
+
+* Project Management
+* Automation
+* Occasional Jokes
+* Kindness & Compassion
 
 ## Professional Experience
 
