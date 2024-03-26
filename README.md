@@ -1,4 +1,4 @@
-#### I'm a skilled graphic designer, photographer, and developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
+#### I'm a skilled graphic designer, photographer, and developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. Want to know more? [Book an Appointment](https://calendar.app.google/XX2ihAYEHTuhcw7E6) 
 
 [LinkedIn](https://www.linkedin.com/in/philgear) | Portland, Oregon 97207 | 419-203-7557 | [philgear.biz](https://philgear.biz) | contact@philgear.biz
 
