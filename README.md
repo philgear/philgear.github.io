@@ -1,6 +1,6 @@
 #### I'm a skilled graphic designer, photographer, and developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
 
-Want to know more? [Book an Appointment](https://calendar.app.google/XX2ihAYEHTuhcw7E6) 
+ [Experience the Difference: Schedule a Meeting Today!](https://calendar.app.google/XX2ihAYEHTuhcw7E6) 
 
 Interested in my [older website](https://web.archive.org/web/20240220091910/https://philgear.biz/) for now, while I'm rebuilding it currently?
 
