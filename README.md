@@ -1,221 +1,125 @@
-#### I'm a skilled graphic designer, photographer, and developer with 22+ years of experience. My portfolio showcases my proficiency in Adobe Creative Cloud, WordPress, and other development tools. I'm a dedicated professional ready to create visually appealing and effective online presences. 
+# Phil Gear - Visual Storyteller & Creative Technologist
 
- [Experience the Difference: Schedule a Meeting Today!](https://calendar.app.google/XX2ihAYEHTuhcw7E6) 
+**I transform ideas into engaging visual experiences.** With 22+ years of expertise in graphic design, photography, and web development, I bring a unique blend of artistic vision and technical skill to every project. I'm passionate about crafting compelling narratives, building impactful online presences, and leveraging technology to create meaningful connections.
 
-Interested in my [older website](https://web.archive.org/web/20240220091910/https://philgear.biz/) for now, while I'm rebuilding it currently?
+**Are you looking for a creative problem-solver who can elevate your brand and deliver exceptional results?** Let's connect and explore how I can contribute to your success.
 
-[LinkedIn](https://www.linkedin.com/in/philgear) | Portland, Oregon 97207 | 419-203-7557 | [philgear.biz](https://philgear.biz) | contact@philgear.biz
+[**Let's Talk! Schedule a Meeting**](https://calendar.app.google/XX2ihAYEHTuhcw7E6)
 
-## Skills Summary
+**Portfolio & Contact:**
 
-**Technical Skills**
+*   **Personal Work Website:** [philgear.biz](https://philgear.biz) (Built on Astro with Tailwind and Gemini)
+*   **LinkedIn:** [linkedin.com/in/philgear](https://www.linkedin.com/in/philgear)
+*   **Email:** contact@philgear.biz
+*   **Phone:** (419) 203-7557
+*   **Location:** Portland, Oregon 97207
 
-* **Web Development:** HTML5, CSS3, JavaScript, Python, XML, PHP
-* **Cloud Platforms:** Google Cloud Platform, Amazon Web Services, Microsoft Azure
-* **Software:** Autodesk Revit, Trimble, Pulse Embroidery, Adobe Creative Cloud, Microsoft Office Suite, Google Workspace
-* **Operating Systems:** Windows Desktop and Server, OSX, Linux, Android, iOS
-* **Systems Support:** Servers, Desktops, Laptops, IoT, Printers, Cameras, Plotters
+---
 
-**Soft Skills**
+## What I Bring to the Table
 
-* Project Management
-* Automation
-* Occasional Jokes
-* Kindness & Compassion
+*   **A Holistic Skillset:** I seamlessly blend graphic design, photography, and web development to deliver cohesive and impactful projects.
+*   **Proven Experience:** Over two decades of experience working with diverse clients, from startups to established businesses, across various industries.
+*   **Adaptability and Innovation:** I stay at the forefront of industry trends, embracing new technologies like AI and machine learning to enhance my creative process.
+*   **Client-Focused Approach:** I prioritize understanding your unique needs and goals to create tailored solutions that exceed expectations.
+*   **A Passion for Storytelling:** I believe in the power of visuals to connect, engage, and inspire.
 
-## Professional Experience
+---
 
-### Phil Gear Graphic Design + Web Development – Portland, Oregon
+## Core Competencies
 
-Freelance Graphic Designer and Full Stack Developer | March 2000 – Present
+### Design & Photography
 
-- Consulted with Venture Capitalists on entrepreneurial passion projects to establish businesses and employ/train locals in advanced technology.
-- Constructed over 30 first-to-market websites for consumers, clients, patients, organizations, and businesses.
-- Rebuilt websites and created fresh content for 30+ global B2B, B2C, and non-profit clients.
-- Provided detailed feedback on grammatical, design, or code errors to improve website ranking and visual appeal.
-- Developed marketing materials for clients and facilitated cost-effective mass production.
-- Designed logos and brands for 30+ clients worldwide.
-- Created industry-standard artwork proofs and documentation.
+*   **Adobe Creative Cloud Mastery:** Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects, etc.
+*   **Visual Branding & Identity:** Logo design, brand guidelines, marketing collateral.
+*   **Photography:** Product photography, event coverage, portraiture, landscape, photo editing and retouching.
+*   **UI/UX Design:** User-centered design principles, wireframing, prototyping.
 
-### GearArts LLC – Portland, Oregon
+### Web & Development
 
-Digital Media Consultant | March 2016 – Present
+*   **Front-End Development:** HTML5, CSS3, JavaScript 
+*   **Back-End Familiarity:** Go, Python, PHP, MySQL, PostgreSQL.
+*   **CMS Expertise:** WordPress (custom theme development, plugin integration).
+*   **Cloud Platforms:** Google Cloud Platform Compute Engine, Familiarity with AWS, Azure.
+*   **Responsive Design:** Creating websites that adapt seamlessly to all devices.
 
-- Collaborated with 600+ photographers on social media to advance image editing and digital photography skills.
-- Designed works that inspired thousands, if not millions, of viewers in collaboration with 50+ local and remote digital artists.
-- Consulted with 10+ elite corporate entities to increase awareness of new processes and products in technology advancements.
-- Conducted research at 1400+ physical locations to explore new ideas.
-- Captured professional photographs for clients and provided feedback for improvement.
-- Explored Machine Learning and Artificial Intelligence Content Creation Solutions.
+### Other Skills
 
-### Mile Point Event Productions LLC – Portland, Oregon
+*   **Technical Proficiency:** Autodesk Revit, Trimble, Pulse Embroidery, Microsoft Office Suite, Google Workspace
+*   **Operating Systems:** Windows, macOS, Linux, Android, iOS
+*   **Systems Support:** Servers, Desktops, Laptops, IoT, Printers, Cameras, Plotters
+*   **Project Management:** Agile methodologies, task prioritization, deadline management.
+*   **Soft Skills:** Excellent communication, collaboration, problem-solving, creative thinking, a touch of humor, and genuine kindness.
 
-Individual Contributor | March 2022 – Present
+---
 
-- Performed event setup and strike for sporting events, public events, and street fairs.
-- Provided rest stop services, including water, lunch, and on-call first aid.
-- Delivered and picked up event-related rental equipment and vehicles.
-- Built supply kits for volunteers and event staff.
-- Coordinated transportation for event staff and equipment.
+## Experience Highlights
 
-### Block Party Barricades LLC – Portland, Oregon
+**Freelance Graphic Designer & Full Stack Developer | Phil Gear Graphic Design + Web Development** (2000 – Present)
 
-Individual Contributor | March 2022 – Present
+*   **Impact:** Spearheaded the digital presence for 30+ businesses, non-profits, and organizations, delivering first-to-market websites and compelling brand identities.
+*   **Key Projects:**
+    *   Consulted on the launch of new businesses, providing web development and design expertise.
+    *   Designed and developed websites for a wide range of clients, resulting in increased engagement and brand recognition.
+    *   Created impactful marketing materials that drove customer acquisition and brand awareness.
 
-- Prepared inventory and delivery of event rentals, no parking signage, and barricades.
-- Performed maintenance and quality control on barricades and signage.
+**Digital Media Consultant | GearArts LLC** (2016 – Present)
 
-### Axiom Event Productions LLC – Portland, Oregon
+*   **Impact:** Amplified the reach of visual content, inspiring thousands (potentially millions) through collaborations with photographers and digital artists.
+*   **Key Projects:**
+    *   Collaborated with 600+ photographers on social media, fostering a community of learning and skill development.
+    *   Consulted with leading corporations on emerging technologies, including AI and machine learning in creative workflows.
+    *   Explored and experimented with cutting-edge AI content creation tools, pushing the boundaries of visual storytelling.
 
-Individual Contributor | March 2022 – Present
+**Project Manager | Enterprise Farm LLC** (2020 – 2021)
 
-- Delivered PBOT Greenway signage proposals for safe modes of travel.
-- Presented door flyers to homeowners and businesses to notify neighborhoods of street closures for community events.
+*   **Impact:** Revolutionized agricultural operations, increasing crop yield by 133% through innovative design and process optimization.
+*   **Key Projects:**
+    *   Redesigned and rebuilt a sealed agricultural environment to maximize canopy space, significantly boosting productivity.
+    *   Developed marketing materials and photography to showcase the brand and product quality to investors and retailers.
+    *   Implemented IoT solutions to automate operational data collection processes and improve efficiency.
 
-### Prime Now LLC – Seattle, Washington
+**Other Notable Roles:**
 
-Amazon.com Fresh Flex T1 Associate | June 2020 – October 2021
+*   **Individual Contributor:** Mile Point Event Productions LLC, Block Party Barricades LLC, Axiom Event Productions LLC (2022-2024) - Gained valuable experience in event logistics, operations, and community engagement.
+*   **Amazon.com Fresh Flex T1 Associate | Prime Now LLC** (2020-2021) - Developed strong skills in inventory management, order fulfillment, and fast-paced team environments.
+*   **Web Designer | Chartwells Higher Education Dining Services** (2013) - Created user-friendly digital experiences for a large university, improving accessibility to nutritional information and dining services.
+*   **Senior Graphic Designer and Print Production Specialist | Creative Designs & Signs LLC** (2004-2011) - Designed over 1,000 custom designs, increasing company profits and market share by offering custom graphic design.
+*   **Information Technology Specialist | James A. Rhodes State College** (2006-2009) - Provided field technical support for podiums, projectors, presentation automation systems, classroom clickers, distance learning, and accessibility features.
 
-- Prepared e-commerce orders for delivery from online purchases in multiple warehouses.
-- Managed inventory and received goods from vendors.
-- Updated warehouse inventory and conducted quality assurance.
-- Suggested innovative ideas to increase recruiting and product strategies.
+---
 
-### Enterprise Farm LLC – Canby, Oregon
+## Key Projects Portfolio
 
-Project Manager | March 2020 – March 2021
+1.  **Professional Freelance Portfolio Website** (2009 – Present)
+    *   *Description:* A continuously evolving showcase of my design and development skills, reflecting my growth and adaptability. 
+2.  **Women Who Code IoT Hackathon** (2019)
+    *   *Description:* Collaborated on a sustainable IoT project, contributing design, photography, and research expertise to a team of six.
+3.  **Wacom Inkathon with BeMyApp Agency** (2019)
+    *   *Description:* Led a team to develop an innovative application concept for Wacom, showcasing leadership and project management skills.
+4.  **LightTable Android Application** (2018)
+    *   *Description:* Developed a practical Android app that replicates a light table, demonstrating mobile development and problem-solving abilities.
 
-- Redesigned and rebuilt a sealed agricultural environment to optimize canopy space, resulting in a 133% larger yield.
-- Managed and assigned production tasks to project owners and workers to ensure healthy and productive crops.
-- Designed forms and marketing materials for the Artisan Grown retail brand.
-- Conducted photography sessions to share crop progress with investors, retailers, and team members.
-- Managed and trained outside contractors on production duties.
-- Customized IoT devices for automating standard operating procedures.
-- Contributed to building and grounds maintenance on 30 acres.
-
-### Prime Now LLC – Seattle, Washington
-
-Warehouse Fulfillment Associate | August 2016 – January 2017
-
-- Prepared custom orders for delivery from online purchases within 1-2 hours.
-- Managed inventory and received goods from vendors.
-- Interacted with management to resolve issues.
-- Thrived in a fast-paced team environment.
-
-### Chartwells Higher Education Dining Services – Bowling Green, Ohio
-
-Web Designer | April 2013 – November 2013
-
-- Hand-coded HTML, CSS, and JavaScript for a large university food service entity focused on food nutritional value.
-- Provided service-added-value marketing materials to students through email, mobile applications, and browsers.
-- Developed a public nutrition kiosk to display timely and effective information.
-- Updated dining hall hours, event calendars, and time-based digital signage menus.
-
-### Be Scene Advertising – Van Wert, Ohio
-
-Graphic & Web Designer | March 2008 – June 2010
-
-- Met with clients to design websites, marketing materials, sales brochures, and video production elements.
-- Managed web hosting and domains for 5 clients.
-- Delegated projects and tasks to other media creators and contractors.
-
-### James A. Rhodes State College – Lima, Ohio
-
-Information Technology Specialist | March 2006 – November 2009
-
-- Provided field technical support for podiums, projectors, presentation automation systems, classroom clickers, distance learning, and accessibility features.
-- Set up audio-visual equipment for events.
-- Upgraded portable laptops and laptop carts with the latest Microsoft software.
-- Implemented equipment inventory tracking system campus-wide.
-
-### Creative Designs & Signs LLC – Van Wert, Ohio
-
-Senior Graphic Designer and Print Production Specialist | March 2004 – August 2011
-
-- Communicated with customers to develop over 1,000 custom designs for various items.
-- Increased company profits and market share by offering custom graphic design.
-- Designed graphics for large-format printers.
-- Digitized artwork for embroidery machines.
-- Trained staff on computer applications and printers.
-- Created an informative website and sales materials.
-
-## Key Projects
-
-### Professional Freelance Portfolio Website – Portland, Oregon
-
-Webmaster | October 2009 – Present
-
-- Revised and rebuilt website five times over 13 years.
-- Implemented six different branding overhauls.
-- Combined new client projects to expand previous work.
-  
-### Women Who Code IoT Hackathon – San Francisco, California
-
-Graphic Designer, Photographer, Researcher | September 2019
-
-- Collaborated on sustainable IoT solutions with a team of 6 members.
-- Provided equipment and support for computer programmers.
-- Documented, researched, photographed, and designed a presentation for judges.
-  
-### BeMyApp Agency – Paris, France
-
-Project Owner – Wacom Inkathon | May 2019
-
-- Presented application idea and formed a team.
-- Led team to complete app tasks assigned by Wacom project managers.
-- Captured professional photos and shared on social media.
-  
-### LightTable Android Application – Portland, Oregon
-
-App Developer | January 2018
-
-- Built an Android app to replicate a light table using JavaScript.
-- Created tutorials on the website for app utilization.
-- Promoted the app on social media and the Google Play Store.
-  
-### Phil Gear – Who? – Portland, Oregon
-
-Electronic Music Artist | January 2018
-
-- Composed a musical track based on block letters in the name.
-- Edited a music video and synced it to the bassline.
-- Wrote an article about the process and promoted it on social media and music channels.
+---
 
 ## Education
 
-### Portland Community College – Portland, Oregon
+**Portland Community College** | Associate Degree in General Studies | 2021
 
-Associate Degree in General Studies | December 2021
+*   Focus: Marketing, Graphic Design, Web Development
+*   Honors: Phi Theta Kappa – Beta Epsilon Gamma/Beta Pi Rho, +STEAM Club
 
-- Marketing with a Focus in Graphic Design / Web Development.
-- Phi Theta Kappa – Beta Epsilon Gamma/Beta Pi Rho, +STEAM Club.
+---
 
-## Volunteer Work
+## Volunteer Experience
 
-### PDXWLF – Portland, Oregon
+*   **PDXWLF Super Volunteer** (2017 – Present): Supporting the arts community through event organization and execution.
+*   **Google Maps Local Guide** (2012 – Present): Contributing to a valuable resource by sharing photos and information about local businesses and places.
+*   **The Nature Conservancy Trail Builder** (2019 – Present): Giving back to the environment through trail maintenance and conservation efforts.
+*   **Meetup.com Event Attendee and Group Owner** (2014 – Present): Engaging with the tech and creative community, sharing knowledge, and building connections.
 
-Super Volunteer | February 2017 – Present
+---
 
-- Assisted in organizing and showcasing art installations for a public benefit event.
-- Fulfilled various roles such as Operations Crew, Art Crew, Hospitality Crew, and Crowd Counting.
+**I'm eager to learn more about opportunities where I can leverage my skills and passion to make a real impact. Let's connect!**
 
-### Google Maps – Mountain View, California
-
-Photographer, Local Guide | October 2012 – Present
-
-- Added over 400+ photos to help people discover places.
-
-### The Nature Conservancy – Portland, Oregon
-
-Trail Builder, Networker, Tree Remover | February 2019 – Present
-
-- Carved out hiking paths, removed boulders and invasive tree species.
-- Captured photographs of the process and work group.
-
-### Meetup.com – New York, New York
-
-Pacific Northwest Event Attendee and Group Owner | December 2014 – Present
-
-- Captured photographs of events and posted them on event pages.
-- Hosted a group on Adobe Photoshop and Lightroom.
-- Attended over 300+ events on art, science, and technology.
+[**Schedule a Meeting**](https://calendar.app.google/XX2ihAYEHTuhcw7E6)
